@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>  
+
+<servlet>  
+<servlet-name>stv_0</servlet-name>  
+<servlet-class>code</servlet-class>  
+</servlet>  
+<servlet-mapping>  
+<servlet-name>stv_0</servlet-name>  
+<url-pattern>/stv0</url-pattern>  
+</servlet-mapping> 
+ 
+<servlet>  
+<servlet-name>stv_1</servlet-name>  
+<servlet-class>code1</servlet-class>  
+</servlet>  
+<servlet-mapping>  
+<servlet-name>stv_1</servlet-name>  
+<url-pattern>/stv1</url-pattern>  
+</servlet-mapping> 
+
+
+</web-app>  
